@@ -83,6 +83,15 @@ function remove_image_attribute($html){
 }
 
 /**
+ * Wordpress独自の読み込みを削除
+ */
+function removeHeadLinks() {
+	remove_action('wp_head', 'rsd_link');
+	remove_action('wp_head', 'wlwmanifest_link');
+}
+add_action('init', 'removeHeadLinks');
+
+/**
  * WordpressにおけるjQuery自動読み込みを削除
  */
 function replace_jquery() {

@@ -36,7 +36,7 @@
                         <div class="article-footer">
                             <div class="footer-wrap">
                                 <div class="category ft-m">
-                                    <p><i class="fas fa-tags icon"></i><span class="category-nm"><?php the_category(' '); ?></span></p>
+                                    <p><i class="fas fa-tags icon"></i><span class="category-nm"><?php the_category(', '); ?></span></p>
                                 </div>
                                 <div class="post-time ft-m">
                                     <time>

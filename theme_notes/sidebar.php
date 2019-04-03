@@ -4,14 +4,11 @@
                 <div class="author-profile">
                     <div class="aside-container">
                         <div class="profile-info">
-                            <img src="http://placehold.jp/250x250.png?text=Profile">
-                            <h4 itemprop="author">User Name</h4>
+                            <img src="https://cdn.pixabay.com/photo/2017/05/13/12/40/fashion-2309519_960_720.jpg">
+                            <h4 itemprop="author">Name</h4>
                             <div class="profile-txt">
                                 <p>
-                                    enter profile info
-                                    Dummy Profile Dummy Profile Dummy Profile Dummy Profile
-                                    Dummy Profile
-                                    Dummy Profile Dummy Profile Dummy Profile Dummy Profile
+									Inquisitive computer science specialist with 8+ years of experience. Looking to leverage strong programming skills as a developer for Google. Led a team of 11 coders at Halcyon-Berth Systems. Delivered projects an average of 10% before deadline, with 15% less errors than other teams. Trained 25 programmers in cloud computing skills.
                                 </p>
                             </div>
                             <div class="prof-links">
