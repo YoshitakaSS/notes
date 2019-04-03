@@ -6,15 +6,17 @@
                 <hr>
                 <div class="profile-info">
                     <p class="prof-nm" itemprop="author">
-                        Ys
+                        Anonymous
                     </p>
                     <p>
-								SEO分析やLinebot作成やWebサイトの作成をしています。<br>
-								当サイトではプログラミングのアウトプットから趣味の事を主に発信しています。<br>
- 								当サイトへの問い合わせ、仕事の依頼は<a href="https://dara-blog.com/contact">こちら</a>からお願い致します。<br>
+                        Enter Profile
+                        dummy Textdummy Textdummy Text
+                        dummy Textdummy Textdummy Text
+                        dummy Textdummy Textdummy Text
+                        dummy Textdummy Textdummy Text
                     </p>
                     <!-- 自分のTwitterを埋め込んでください -->
-                    <a href="https://twitter.com/sy_sh7711?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @sy_sh7711</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+                    
                 </div>
             </div>
             <div class="portfolio-links list-wrap">
@@ -22,7 +24,9 @@
                 <h4>Related Links</h4>
                 <hr>
                 <ul class="links-info">
-                    <li><a href="https://colorpallet.herokuapp.com" target="new" rel="nofollow">Color Pallet</a></li>
+                    <li><a href="#" target="new" rel="nofollow">Google</a></li>
+                    <li><a href="#" target="new" rel="nofollow">Yahoo</a></li>
+                    <li><a href="#" target="new" rel="nofollow">Bing</a></li>
                 </ul>
             </div>
             <div class="embedded-twiiter list-wrap">
@@ -30,9 +34,6 @@
                 <hr>
                 <h4>Twitter</h4>
                 <hr>
-                <div class="twitter-wrap">
-                    <a class="twitter-timeline" data-height="400" data-theme="light" href="https://twitter.com/sy_sh7711?ref_src=twsrc%5Etfw">Tweets by sy_sh7711</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-                </div>
             </div>
 
         </div>
